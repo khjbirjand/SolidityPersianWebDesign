@@ -1,2 +1,10 @@
 font-family:
     Sana
+display: flex !important;
+    align-items: flex-start !important;
+    font-family: monospace;
+    line-height: 1.4;
+    height: 100%;
+    overflow-x: auto;
+    position: relative;
+    z-index: 0;
